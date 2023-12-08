@@ -1,0 +1,7 @@
+{
+    "email_user": "user",
+    "email_pass": "password",
+    "imap_server": "mail.mondomaine.ltd",
+    "output_dir": "/home/user/Documents/Mails/"
+  }
+  
